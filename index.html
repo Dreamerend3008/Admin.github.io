@@ -1,45 +1,228 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Welcome to my GitHub Pages website">
-    <meta name="author" content="Your Name">
-    <title>My GitHub Pages Site</title>
+    <meta name="description" content="Proyecto de Investigación en Gestión - Entrevista a TKC Group Fumigaciones">
+    <meta name="author" content="Juan Bravo, Samuel Correa, Alejandro Davila, Maria Zabala">
+    <title>Proyecto TKC Group - Investigación en Gestión</title>
     <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
 <body>
     <header>
         <nav>
-            <h1>My Website</h1>
+            <div class="nav-brand">
+                <i class="fas fa-seedling"></i>
+                <h1>TKC Group Research</h1>
+            </div>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#proyecto">Proyecto</a></li>
+                <li><a href="#empresa">Empresa</a></li>
+                <li><a href="#equipo">Equipo</a></li>
+                <li><a href="#entrevista">Entrevista</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
-        <section id="home" class="section">
-            <h2>Welcome to My GitHub Pages Site</h2>
-            <p>This is a base template for starting a webpage using GitHub Pages.</p>
-            <p>Edit the content in <code>index.html</code>, style in <code>styles.css</code>, and add functionality in <code>script.js</code>.</p>
+        <!-- Hero Section -->
+        <section id="inicio" class="hero-section">
+            <div class="hero-content">
+                <h2>Proyecto de Investigación en Gestión</h2>
+                <h3>Estudio de Caso: TKC Group Fumigaciones</h3>
+                <p class="hero-subtitle">Análisis organizacional a través de entrevistas estructuradas</p>
+                <div class="hero-buttons">
+                    <a href="#proyecto" class="btn btn-primary">Ver Proyecto</a>
+                    <a href="#entrevista" class="btn btn-secondary">Ver Entrevista</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <i class="fas fa-building-user"></i>
+            </div>
         </section>
 
-        <section id="about" class="section">
-            <h2>About</h2>
-            <p>This section is where you can add information about yourself or your project.</p>
+        <!-- Proyecto Section -->
+        <section id="proyecto" class="section">
+            <div class="section-header">
+                <h2><i class="fas fa-clipboard-list"></i> Descripción del Proyecto</h2>
+            </div>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>Objetivo General</h3>
+                    <p>Analizar la estructura organizacional y procesos de gestión de TKC Group Fumigaciones mediante entrevistas estructuradas con personal clave de la empresa.</p>
+                </div>
+                <div class="project-card">
+                    <h3>Metodología</h3>
+                    <p>Investigación cualitativa basada en entrevistas semiestructuradas, análisis documental y observación directa de procesos organizacionales.</p>
+                </div>
+                <div class="project-card">
+                    <h3>Alcance</h3>
+                    <p>Evaluación de prácticas de gestión, cultura organizacional, procesos operativos y estrategias de crecimiento empresarial.</p>
+                </div>
+            </div>
         </section>
 
-        <section id="contact" class="section">
-            <h2>Contact</h2>
-            <p>Add your contact information or a contact form here.</p>
+        <!-- Empresa Section -->
+        <section id="empresa" class="section">
+            <div class="section-header">
+                <h2><i class="fas fa-industry"></i> TKC Group Fumigaciones</h2>
+            </div>
+            <div class="company-info">
+                <div class="company-description">
+                    <h3>Acerca de la Empresa</h3>
+                    <p>TKC Group Fumigaciones es una empresa especializada en servicios de control de plagas y fumigación, comprometida con la calidad y la innovación en el sector de sanidad ambiental.</p>
+                    
+                    <h4>Servicios Principales:</h4>
+                    <ul class="services-list">
+                        <li><i class="fas fa-bug"></i> Control de plagas urbanas</li>
+                        <li><i class="fas fa-spray-can"></i> Fumigación industrial</li>
+                        <li><i class="fas fa-shield-alt"></i> Desinfección y sanitización</li>
+                        <li><i class="fas fa-leaf"></i> Manejo integrado de plagas</li>
+                    </ul>
+                </div>
+                <div class="company-stats">
+                    <div class="stat-card editable" data-field="years">
+                        <div class="stat-number">X</div>
+                        <div class="stat-label">Años de Experiencia</div>
+                    </div>
+                    <div class="stat-card editable" data-field="clients">
+                        <div class="stat-number">X+</div>
+                        <div class="stat-label">Clientes Atendidos</div>
+                    </div>
+                    <div class="stat-card editable" data-field="employees">
+                        <div class="stat-number">X</div>
+                        <div class="stat-label">Empleados</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Equipo Section -->
+        <section id="equipo" class="section">
+            <div class="section-header">
+                <h2><i class="fas fa-users"></i> Equipo de Investigación</h2>
+            </div>
+            <div class="team-grid">
+                <div class="team-member">
+                    <div class="member-avatar">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3>Juan Bravo</h3>
+                    <p class="member-role">Investigador Principal</p>
+                    <p class="member-desc">Especializado en análisis organizacional y gestión empresarial.</p>
+                </div>
+                <div class="team-member">
+                    <div class="member-avatar">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3>Samuel Correa</h3>
+                    <p class="member-role">Analista de Procesos</p>
+                    <p class="member-desc">Experto en metodologías de investigación cualitativa.</p>
+                </div>
+                <div class="team-member">
+                    <div class="member-avatar">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3>Alejandro Davila</h3>
+                    <p class="member-role">Coordinador de Entrevistas</p>
+                    <p class="member-desc">Especialista en técnicas de entrevista y recopilación de datos.</p>
+                </div>
+                <div class="team-member">
+                    <div class="member-avatar">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3>María Zabala</h3>
+                    <p class="member-role">Analista de Datos</p>
+                    <p class="member-desc">Experta en análisis de información y presentación de resultados.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Entrevista Section -->
+        <section id="entrevista" class="section">
+            <div class="section-header">
+                <h2><i class="fas fa-microphone"></i> Entrevista</h2>
+            </div>
+            <div class="interview-content">
+                <div class="interview-info">
+                    <h3>Información de la Entrevista</h3>
+                    <div class="interview-details">
+                        <div class="detail-item editable" data-field="date">
+                            <i class="fas fa-calendar"></i>
+                            <span>Fecha: <strong>[Fecha a determinar]</strong></span>
+                        </div>
+                        <div class="detail-item editable" data-field="duration">
+                            <i class="fas fa-clock"></i>
+                            <span>Duración: <strong>[Duración estimada]</strong></span>
+                        </div>
+                        <div class="detail-item editable" data-field="interviewee">
+                            <i class="fas fa-user-tie"></i>
+                            <span>Entrevistado: <strong>[Nombre y cargo]</strong></span>
+                        </div>
+                        <div class="detail-item editable" data-field="location">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>Ubicación: <strong>[Lugar de la entrevista]</strong></span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="interview-topics">
+                    <h3>Temas de la Entrevista</h3>
+                    <div class="topics-grid">
+                        <div class="topic-card editable-content" data-field="topic1">
+                            <h4>Estructura Organizacional</h4>
+                            <p>Análisis de la jerarquía, roles y responsabilidades dentro de la empresa.</p>
+                        </div>
+                        <div class="topic-card editable-content" data-field="topic2">
+                            <h4>Procesos de Gestión</h4>
+                            <p>Evaluación de metodologías de trabajo y sistemas de control de calidad.</p>
+                        </div>
+                        <div class="topic-card editable-content" data-field="topic3">
+                            <h4>Cultura Empresarial</h4>
+                            <p>Identificación de valores, misión y visión organizacional.</p>
+                        </div>
+                        <div class="topic-card editable-content" data-field="topic4">
+                            <h4>Estrategias de Crecimiento</h4>
+                            <p>Planes de expansión y desarrollo empresarial a futuro.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="interview-actions">
+                    <button class="btn btn-primary edit-mode-btn">
+                        <i class="fas fa-edit"></i> Modo Edición
+                    </button>
+                    <button class="btn btn-success save-btn" style="display: none;">
+                        <i class="fas fa-save"></i> Guardar Cambios
+                    </button>
+                    <button class="btn btn-secondary cancel-btn" style="display: none;">
+                        <i class="fas fa-times"></i> Cancelar
+                    </button>
+                </div>
+            </div>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2024 My GitHub Pages Site. All rights reserved.</p>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Proyecto de Investigación</h4>
+                <p>TKC Group Fumigaciones - Análisis de Gestión</p>
+            </div>
+            <div class="footer-section">
+                <h4>Equipo Investigador</h4>
+                <p>Juan Bravo • Samuel Correa • Alejandro Davila • María Zabala</p>
+            </div>
+            <div class="footer-section">
+                <h4>Universidad</h4>
+                <p class="editable" data-field="university">[Nombre de la Universidad]</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Proyecto de Investigación TKC Group. Todos los derechos reservados.</p>
+        </div>
     </footer>
 
     <script src="script.js"></script>
