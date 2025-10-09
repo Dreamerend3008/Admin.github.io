@@ -196,7 +196,74 @@ main {
     color: #27ae60;
 }
 
-/* Project Grid */
+/* Theory Grid */
+.theory-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.theory-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 1px solid #e9ecef;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.theory-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+.theory-icon {
+    background: linear-gradient(45deg, #27ae60, #2ecc71);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem auto;
+}
+
+.theory-icon i {
+    font-size: 2rem;
+    color: white;
+}
+
+.theory-card h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+.theory-card p {
+    color: #7f8c8d;
+    line-height: 1.6;
+}
+
+.follett-application {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    padding: 2rem;
+    border-radius: 15px;
+    border-left: 5px solid #27ae60;
+}
+
+.follett-application h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.follett-application p {
+    color: #555;
+    line-height: 1.7;
+    font-size: 1.1rem;
+}
 .project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -400,6 +467,56 @@ main {
 
 .interview-actions .btn {
     margin: 0 0.5rem;
+}
+
+/* Interview Questions Section */
+.interview-questions {
+    margin-top: 2rem;
+}
+
+.questions-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+
+.question-block {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    padding: 2rem;
+    border-radius: 15px;
+    border-left: 5px solid #27ae60;
+}
+
+.question-block h4 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.question-block ul {
+    list-style: none;
+    padding: 0;
+}
+
+.question-block li {
+    padding: 0.8rem 0;
+    border-bottom: 1px solid #e9ecef;
+    color: #555;
+    position: relative;
+    padding-left: 1.5rem;
+}
+
+.question-block li:before {
+    content: "▸";
+    color: #27ae60;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+}
+
+.question-block li:last-child {
+    border-bottom: none;
 }
 
 /* Editable Elements */
