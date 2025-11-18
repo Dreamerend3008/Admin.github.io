@@ -1,63 +1,212 @@
-# Resultados
+Claro, aquí tienes el texto completo de la entrevista, ordenado y estructurado en formato Markdown (MD).
 
-## Análisis del entorno y contexto organizacional de la gerente
+# Entrevista a Yesenia Morales - Gerente de TKC Group
 
-El contexto que define la labor gerencial de Yesenia Morales Mora está marcado por su trayectoria personal, los cambios internos de la empresa y las características del sector de saneamiento ambiental. A diferencia de su hermana Liliana, fundadora de TKC Fumigaciones, Yesenia no provenía de una formación orientada a la administración ni tenía experiencia previa en cargos gerenciales cuando asumió la dirección en 2017.
+## Presentación y Objetivos
 
-Su experiencia profesional, centrada en la docencia y la salud, le otorgó un enfoque técnico y humano, pero también la enfrentó a un proceso acelerado de aprendizaje al tomar liderazgo en una organización en expansión. El reto principal consistió en integrar su formación en salud con las exigencias estratégicas, administrativas y operativas propias de una empresa de servicios industriales.
+**Entrevistadores (Juan Andrés Bravo, María José Zabala, David Dávila):**
+- Hola, ¿qué tal? Nos encontramos en el día de hoy con el grupo de trabajo de investigación para la materia administración.
+- Vamos a entrevistar a la gerente de TKC Group, Yesenia Morales.
+- Buen día para todos. El objetivo de esta presentación es conocer un poco a Yesenia, que nos hable un poco sobre su experiencia como gerente de TKC Group, pero además explorar conceptos y, a partir de eso, generar unas preguntas introductorias que enriquezcan a nuestro sentido como gerentes.
 
-La empresa que recibió ya contaba con una estructura organizada por Liliana bajo principios de formalización: departamentos, procesos definidos y cadenas de mando claras. En este escenario, el enfoque humano de Yesenia tomó un papel clave, pues concibe la empresa como una familia donde el apoyo, la empatía y el respeto influyen directamente en el desempeño. Este énfasis se refleja en su manejo del talento humano y en su estilo de liderazgo.
+**Yesenia Morales:**
+- Buen día para todos.
 
-El entorno externo también condiciona su gestión. TKC opera en un sector regulado por normas sanitarias, ambientales y laborales, lo que exige garantizar cumplimiento legal y altos estándares de seguridad. Además, la empresa enfrenta problemáticas persistentes en Colombia como la falta de control adecuado de plagas y las deficiencias en higiene ambiental. Estas condiciones impulsaron la diversificación hacia unidades como TKC CORP, TKC Home, Hidriko y TKC Security, desarrolladas bajo la dirección de Yesenia para responder a las exigencias del mercado.
-
-En el entorno interno, Yesenia ha fortalecido una cultura organizacional influenciada por los principios de Mary Parker Follett, como el liderazgo colaborativo, la integración del conflicto y la comunicación circular. Su estilo se basa en el “poder con” más que en el “poder sobre”, promoviendo decisiones participativas, escucha activa y relaciones respetuosas. La ley de la situación se evidencia en prácticas donde la autoridad surge del conocimiento técnico y de los hechos; la integración del conflicto se trabaja mediante reuniones periódicas, retroalimentación empática y espacios de diálogo.
-
-El contexto gerencial de Yesenia presenta desafíos como la coordinación de equipos numerosos, la adaptación a regulaciones cambiantes y el equilibrio entre procesos formales y flexibilidad operativa. A la vez, existen oportunidades derivadas del reconocimiento ambiental recibido por la empresa, su posicionamiento en el mercado y la expansión de nuevas líneas de negocio. Todo ello evidencia cómo, sin venir del ámbito administrativo, Yesenia ha construido un liderazgo sólido basado en su formación en salud y en una visión centrada en las personas.
-
----
-
-## Pensamiento administrativo del gerente real vs. enfoques teóricos
-
-Esta sección presenta los resultados derivados de la entrevista realizada a Yesenia Morales Mora, gerente de TKX Group, cuyo registro audiovisual se encuentra en YouTube (véase Anexo A).
-
-El análisis se organizó según los conceptos centrales de Mary Parker Follett: poder con vs. poder sobre, ley de la situación, integración del conflicto y proceso grupal. Cada elemento muestra cómo estos principios se manifiestan en las prácticas de gestión de la organización.
-
-### Liderazgo y ejercicio del poder (poder con vs. poder sobre)
-
-La gerente describe su liderazgo como centrado en las personas, afirmando que “las decisiones no son autoritarias, sino concertadas”. Este enfoque participativo refleja el poder con propuesto por Follett, donde la autoridad se construye colectivamente mediante diálogo y cooperación.
-
-Yesenia destaca la importancia de escuchar a los trabajadores: “A medida que tengamos un grupo engranado, ese grupo se vuelve un equipo”. Según Peek (2025), el liderazgo colaborativo incrementa la capacidad colectiva y sustituye la imposición por la cooperación, lo que se evidencia en la estructura participativa de TKC Group.
-
-### Toma de decisiones y ley de la situación
-
-En coherencia con la ley de la situación, Morales señala que las decisiones en TKC Group “no se imponen, sino que se basan en el análisis técnico y normativo de cada contexto”. El sistema integrado de gestión y los perfiles de cargo definen responsabilidades claras, evitando imposiciones innecesarias.
-
-El proceso de decisión incluye retroalimentación personalizada para identificar posibles causas personales o laborales de bajo desempeño. Según Morales: “Lo familiar influye en lo laboral… Primero somos personas antes que empleados”. Esto refleja la idea de Follett de que la autoridad proviene de los hechos y del entendimiento humano del contexto.
-
-La gerente agrega que los técnicos también participan en decisiones operativas: “Si los técnicos nos dicen que por seguridad no se puede prestar un servicio, el servicio no se presta”. Este ejemplo materializa el principio de que la autoridad reside en los hechos y no en la jerarquía.
-
-### Manejo del conflicto e integración grupal
-
-Respecto al conflicto, Yesenia afirma que es inevitable, pero debe gestionarse de manera preventiva. TKC realiza comités operativos semanales para analizar casos y fortalecer habilidades blandas como comunicación asertiva y empatía, en línea con Follett, quien veía el conflicto como una oportunidad de aprendizaje colectivo.
-
-La gerente relata la anécdota de una queja conocida como “el caso de las calabazas con caritas felices”. Este conflicto se resolvió mediante diálogo, retroalimentación y medidas proporcionales, priorizando el aprendizaje sobre la sanción inmediata. Esto coincide con el enfoque ganar-ganar de Follett.
-
-En cuanto a los conflictos entre áreas —como logística, comercial y operaciones— estos se gestionan mediante reuniones conjuntas y mediación, orientadas a encontrar soluciones más que culpables, lo que refleja el ideal follettiano de integración del conflicto.
-
-### Comunicación y proceso grupal
-
-La comunicación circular es un pilar en la dinámica de TKC Group. Yesenia enfatiza que “la comunicación y el respeto no son negociables” y que se busca promover la empatía, especialmente entre las mujeres que conforman la mayoría del personal administrativo.
-
-Para garantizar la circularidad, se implementaron comités administrativos semanales donde cada área presenta avances y conclusiones conjuntas. Según Morales, “cada proceso entrega sus avances los miércoles, para que el sábado solo hagamos conclusiones”. Esto evidencia la respuesta circular propuesta por Follett, donde la información fluye en ambas direcciones y se genera aprendizaje organizacional continuo.
-
-Los resultados muestran que la gestión de TKC Group encarna los principios del pensamiento administrativo de Follett: liderazgo participativo, decisiones basadas en hechos, resolución colaborativa de conflictos y comunicación circular. Estos elementos fortalecen una cultura organizacional centrada en el bienestar humano y la mejora continua.
+**Autorización:**
+- **Entrevistador:** Antes de entrar como la entrevista como tal, ¿tú nos autorizas el tratamiento de los datos o el tratamiento de la entrevista como tal? Tú decías que hay, como una clase, pues digamos, una sección de alerta que se trate con más privacidad que otra, o no habría ningún problema.
+- **Yesenia:** No, ningún inconveniente. Estoy lista.
 
 ---
 
-## Conclusiones
+## Trayectoria Profesional y Origen de TKC Group
 
-Teniendo en cuenta las características estructurales de TKC Fumigaciones Group, la entrevista realizada a Yesenia Morales Mora y los conceptos teóricos analizados durante el semestre, se concluye que la gerente aplica una ideología cercana a la propuesta por Mary Parker Follett, encarnando actitudes esenciales para un liderazgo efectivo.
+**Entrevistador:** Cuéntanos acerca de tu trayectoria profesional, a qué te dedicas.
 
-En la entrevista se evidencia que la ética y la responsabilidad hacia los empleados son pilares fundamentales en TKC, lo que explica los resultados positivos de la organización en los últimos años.
+**Yesenia Morales:**
+- Mi formación de pregrado soy especialista en cuidado intensivo neonatal. Me dediqué durante 20 años al área clínica y también a la parte docente en varias universidades.
+- Mi último trabajo asistencial fue como coordinadora de la Unidad de Cuidado Intensivo del Hospital San Ignacio de la Javeriana. Fue una experiencia muy linda porque fue lo que siempre me gustó.
+- Desafortunadamente, la vida es cambiante y nos ponen en otras esferas y ahí es donde vienen los retos.
+- De manera paralela, la parte comercial y empresarial, debido también a la formación de mis papás, siempre las llevábamos en las venas. Mi papá cuenta también con una empresa actualmente que lleva más de 50 años en el mercado.
+- En conjunto con mi hermana, hace veintiún años decidimos crear una marca para manejo integrado de plagas, todo lo que es plan de sanamiento ambiental.
+- La marca inició y ella estuvo siempre en cabeza. Yo estaba en mi parte asistencial y mi parte docente. Pero desafortunadamente, pues ella pasa por una enfermedad, fallece.
+- Desde el año 2017, el primero de enero, quedó a cargo de TKC Group. Un reto bastante grande y en ese momento hago un alto a mi carrera y a mis actividades. Desde ese entonces, me dejó completamente a TKC.
 
-En síntesis, esta investigación respalda la teoría de Follett y demuestra cómo una empresa puede alcanzar resultados sobresalientes mediante la construcción de un entorno laboral adecuado para sus trabajadores. Asimismo, permite reconocer una perspectiva más humana de la gerencia, entendiendo que los administradores, al igual que sus equipos, están en constante aprendizaje. Su rol es clave para asegurar el crecimiento de la empresa y el bienestar de quienes la integran.
+---
+
+## Retos al Asumir la Gerencia
+
+**Entrevistador:** Cuando asumiste la gerencia, ¿cuáles han sido los mayores retos que has tenido a lo largo de la gerencia?
+
+**Yesenia Morales:**
+- Efectivamente, uno no está siempre preparado al 100%, pero lo más importante es la actitud y la disposición que tenemos ante el cambio.
+- Ese fue un reto: tomar la decisión de dejar las actividades que venía desarrollando por un trabajo en medio, totalmente nuevo, desconocido, pero, sin duda alguna, siempre con la mejor actitud, dispuesta a dar lo mejor de mí. Y ese pienso que ha sido el éxito total.
+
+---
+
+## Evolución y Crecimiento de la Empresa
+
+**Entrevistador:** Bajo tu experiencia, ¿cómo escribirías la evolución que ha tenido la empresa durante estos últimos años, desde que la asumiste en el año 2017 hasta hoy, en la actualidad, 2025?
+
+**Yesenia Morales:**
+- El reto, bastante alto. Inicialmente, cuando tomo la decisión de arrancar con la gerencia teníamos 11 colaboradores. En este momento tenemos 65 colaboradores de manera directa.
+- Tenemos operación a nivel nacional, a nivel país, en todas las ciudades principales y estamos haciendo apertura en Miami.
+- Entonces, efectivamente, los sueños hay que seguirlos y hay que seguir creciendo.
+
+**Entrevistador:** Con todo lo que nos contaste, ¿cuál crees que fue el cambio más fundamental o cuál crees que es el aporte más significativo que ha tenido la empresa?
+
+**Yesenia Morales:**
+- Sin duda alguna, lo más importante son las personas, son los colaboradores, porque a medida que tengamos un grupo que esté totalmente en Granada, ese grupo se vuelve equipo. En el momento en que somos equipo, podemos subir juntos.
+- Empoderar a la gente, a los colaboradores, que ellos sientan que son lo más importante, porque realmente es así. Somos realmente una familia y que todos estamos es para palancarnos.
+- No solamente pensar en el beneficio corporativo, en el beneficio empresarial, sino también pensar en estas personas que nos están ayudando a crecer. Ese ha sido el cambio.
+
+---
+
+## Estilo de Liderazgo
+
+**Entrevistador:** ¿Cómo definirías tu estilo de liderazgo que has ido construyendo?
+
+**Yesenia Morales:**
+- Mi liderazgo va enfocado 100 por 100 a las personas. Si bien es cierto, hay unas normativas y hay unos protocolos y procesos, y estamos basados en un sistema integrado de gestión, las decisiones no soy autoritaria, sino que es todo totalmente concertado.
+- Es importante escuchar a las personas. En esa medida hemos podido llegar realmente a tener unas excelentes relaciones laborales y eso es lo más importante, tener un excelente clima laboral.
+
+**Entrevistador:** ¿De qué manera manejas esta distribución de poder para no caer en la imposición?
+
+**Yesenia Morales:**
+- Nos basamos mucho en nuestro sistema integrado de gestión. Cuando hay un estándar y están los perfiles de cargo, cada uno de los colaboradores tiene claro cuáles son sus funciones.
+- En el momento en que tú entras a trabajar a TKC, conoces tu perfil de cargo y cuáles son los compromisos. Desde recursos humanos, somos muy claros y muy transparentes.
+- Se presentan retos. Hay personas que, a pesar de que tienen un perfil de cargo, no lo cumplen. Entonces ahí es cuando nosotros arrancamos a hacer retroalimentaciones y feedback.
+- Estas retroalimentaciones son de sentarnos y preguntarte qué está pasando, si tienes algo familiar, si tienes algo personal y si hay algo en que la empresa pueda colaborarte.
+- Se indaga. Si tenemos la potestad de ayudar, maravilloso. Si no, se hacen unos acuerdos, se hacen unos compromisos y cuando no se cumplen, arranca todo un proceso de disciplina.
+
+---
+
+## Medición del Desempeño y Retención de Talento
+
+**Entrevistador:** ¿Cómo miden estos índices de calidad de los trabajadores?
+
+**Yesenia Morales:**
+- Nosotros tenemos unos indicadores. Estos indicadores se revisan los primeros 5 días de cada mes. Cada proceso tiene sus respectivos indicadores.
+- Con los indicadores podemos evaluar y analizar qué está pasando con la prestación de nuestros services.
+- Otra manera de evaluar son con las PQR. Desde el departamento de calidad se hace una medición y se van comparando. Con eso se hace una evaluación, acciones de mejora, acciones correctivas.
+
+**Entrevistador:** ¿Cuál es la manera en la que ustedes generan una retentiva del personal?
+
+**Yesenia Morales:**
+- Tenemos varios perfiles: personal operativo y personal administrativo.
+- El personal operativo son los técnicos capacitados que se encuentran en calle en terreno 24/7.
+- Para ellos tenemos unos incentivos totalmente diferentes. La propuesta de valor es que TKC sea una de las empresas que mayor aporte de dinero se encuentre en el mercado.
+- Ellos cuentan con unos rodamientos de moto elevados, tienen incentivos. TKC les paga el SOAT, se asume todo lo que son los parqueaderos adicionales, los traslados, también recargos de gasolina adicional y también se les da un incentivo de bonos de alimentación.
+- También los temas de descanso, porque no solamente se mide por condiciones materiales, sino también por el bienestar.
+
+---
+
+## Toma de Decisiones y Valor del Conocimiento Técnico
+
+**Entrevistador:** ¿Cómo impacta el conocimiento o la experiencia de alguno de sus trabajadores en la toma de decisiones?
+
+**Yesenia Morales:**
+- Nosotros los tenemos en cuenta al 100 por 100, porque precisamente es personal calificado, formado.
+- Si ellos nos dicen: de acuerdo a la evaluación por seguridad no podemos prestar el servicio, el servicio no se presta. Nos pasamos por encima del tema del servicio.
+
+**Entrevistador:** ¿Cómo se aseguran ustedes que estas decisiones se guíen por los hechos?
+
+**Yesenia Morales:**
+- Nuestra planta está formada por técnicos operativos, por supervisores y por directores de campo. Son 3 eslabones totalmente diferentes que nos corroboran que las decisiones estén fundamentadas.
+- Hay un check list con registro fotográfico y con video. Eso pasa al director operacional y el director operacional pasa a la directora de calidad. Entonces, una vez ya chequeado por 3 procesos, se toman las decisiones.
+
+---
+
+## Manejo de Desacuerdos y Conflictos
+
+**Entrevistador:** ¿Cómo, desde dentro de la empresa, se gestionan los desacuerdos entre personal técnico y cliente?
+
+**Yesenia Morales:**
+- Realizamos unos comités operacionales todos los viernes. Precisamente, lo que nos interesa, más que ser corregidos, es ser preventivos.
+- Hablamos también de las habilidades blandas. Hay que aprender a respetar esas diferencias. Trabajamos mucho este tema de habilidades blandas.
+- Tenemos una empresa que nos apoya de manera externa, que se llama Hume, especializada en el manejo de estos temas.
+- Al mínimo llegamos a acuerdos y los acuerdos son para cumplirlos. En el momento en que tú ya no te sientes capacitado para cumplir esos acuerdos, la relación se debe finalizar.
+
+**Entrevistador:** ¿Podrías comentarnos alguna situación en la que se haya resuelto de la manera en que las 2 partes salgan beneficiadas?
+
+**Yesenia Morales:**
+- Les voy a contar una anécdota. Me llega una PQR con una calabaza con una carita feliz.
+- Resulta que teníamos programado un servicio en el Club de Lagartos. Los chicos fueron a hacer la aplicación de un servicio, vieron unas calabazas y les pareció muy chistoso hacerles carita feliz.
+- El club tiene cámaras y visualizaron a nuestro técnico aplicador con su dotación y logo de TKC Group, haciendo las caritas.
+- Eso es faltar al respeto y a las normas. Recibimos la queja, se pasó a recursos humanos, se citó al técnico y se escuchó su versión.
+- Se hizo unos compromisos, un feedback. Una de las acciones es que esa persona no podía volver a prestar servicios en el Club de Lagartos. Quedó vetado.
+- No se catalogó como una falta grave para generarle una suspensión o una finalización del contrato, pero sí quedó penalizado.
+
+**Entrevistador:** A nivel interno, ¿han existido roces entre los distintos departamentos y cómo los han sabido trabajar?
+
+**Yesenia Morales:**
+- Claro que sí se presenta. A veces temas de rivalidad, de responsabilidad entre operacional, comercial y logístico.
+- Hacemos reuniones pequeñas, siempre en compañía de recursos humanos y de calidad, siendo lo más asertivos posible, lo más imparciales.
+- Lo que hacemos es que cada proceso escribe qué fue lo sucedido, luego nos reunimos y escuchamos las partes y concluimos qué se va a hacer. Más de quién tuvo la culpa es cómo vamos a buscar la solución.
+- Siempre la comunicación asertiva y más amigable y compasiva.
+- Una de las políticas establecidas en TKC es el tema de la comunicación y el respeto. Eso no es negociable.
+
+---
+
+## Estrategias de Trabajo en Equipo y Comunicación
+
+**Entrevistador:** ¿Tienen alguna otra estrategia para fomentar el trabajo en equipo?
+
+**Yesenia Morales:**
+- Las estrategias son los comités administrativos que tenemos cada 8 días, que efectivamente nos permiten tener cercanía.
+- Aprovechamos estos espacios para hablar de habilidades blandas, actividades de integración, juego de roles, juego de sombreros, trabajo en equipo. Todo esto es constante.
+
+**Entrevistador:** ¿Qué tan fundamental crees que es esta retroalimentación para todo el desarrollo de la empresa?
+
+**Yesenia Morales:**
+- Es 100 por 100 fundamental. Hace 10 años, el CASE no tenía comités, o se hacían de manera esporádica. Hace los últimos años se ha implementado de manera semanal. Ha sido bastante impactante de manera positiva.
+- La comunicación es el éxito total de cualquier operación.
+- A mí me gusta hablar y tener 2 palabras que siempre utilizo, y es DATO y HECHO. La trazabilidad, los indicadores, el crecimiento, los números, los análisis, es lo que realmente importa.
+
+**Entrevistador:** ¿Cómo aseguras que la comunicación del equipo sea circular?
+
+**Yesenia Morales:**
+- Precisamente estos espacios son fundamentales. Dejamos actas donde cada proceso, los miércoles, se comprometen a entregar sus avances y esos avances están ligados totalmente con el trabajo del otro proceso.
+- Esas entregas de avances se entregan los miércoles para que el sábado, cuando nos reunamos, simplemente sea la conclusión. De esa manera se puede verificar que hubo la intervención de todos los procesos.
+
+---
+
+## Reflexiones Finales y Visión a Futuro
+
+**Entrevistador:** De antemano te quiero agradecer por tu tiempo. Ya para cerrar, ¿qué consideras que ha sido tu mayor aporte para TKC Group?
+
+**Yesenia Morales:**
+- Centrarnos en que, ante todo, somos humanos, que somos personas, que tenemos necesidades, que tenemos dificultades y a medida que podamos dejarlas sobre la mesa y apalancarnos, el crecimiento es total.
+- La gente se siente valorada y querida de una manera genuina. Ese pienso que ha sido el éxito total. Somos una empresa realmente de personas.
+
+**Entrevistador:** Pensando a largo plazo, ¿cuál es la visión a mediano/largo plazo de la empresa?
+
+**Yesenia Morales:**
+- Uno pensando precisamente en nuestros colaboradores es invitarlos a que ellos nos sigan ayudando a crecer con la meta que queremos de hacer la apertura en Miami. Los primeros que están invitados son nuestros colaboradores actuales.
+- Segundo, clientes de los que tenemos acá en Colombia, toda la parte hotelera, ya nos han dado ese voto de confianza.
+
+**Entrevistador:** Como gerente de TKC, ¿qué aprendizajes son más fundamentales para todo el proceso?
+
+**Yesenia Morales:**
+- Importante la adaptación y la actitud y la humildad. Nadie tiene la bola de cristal, nadie conoce absolutamente todo, por eso hay que rodearnos de excelentes personas, de excelentes profesionales que me ayuden a crecer.
+- Puedo ser la líder, pero efectivamente, sin duda alguna, no puedo hacerlo sola. Tengo que estar con el mejor equipo al lado.
+
+**Entrevistador:** ¿Quién te inspiró a seguir, a tener este rol de líder pensando en humano?
+
+**Yesenia Morales:**
+- La inspiración total, siempre que me levanto, pienso en mi hermana, sin duda alguna, porque ella fue la fundadora de TKC, fue la pionera, fue la que tuvo ese sueño.
+- Más que ser hermanas, fuimos hermanas, más que hermanas, fuimos amigas muy, muy cercanas. El amor y ese legado que ella tuvo hacia TKC, poderlo continuar es lo que realmente a mí me inspira totalmente.
+- Ella siempre tenía un dicho: "hacer la tarea bien desde el comienzo". Ella siempre me dijo "yo confío en ti". Mi promesa fue que iba a dar lo mejor.
+
+**Cierre:**
+- **Entrevistador:** Muchísimas gracias por tu tiempo. Qué reflexiones tan bonitas y tan inspiradoras también para nuestro camino como gerentes.
+- **Yesenia Morales:** Con todo gusto y acá siempre bienvenidos.
+
+---
+
+## Comentario Informal Final
+
+(Sobre la anécdota de las calabazas)
+- **Entrevistador:** ¡Guau! Me gustan las calabazas. Yo también me imagino que ustedes, a nivel interno, daban mucha risa cuando te comentaban.
+- **Yesenia Morales:** No, pues claro, cuando llamó el técnico, o sea, yo tenía que estarlo más serio, como, o sea, y no me salía estar seria y brava, o sea, yo decía, este tipo, ¿será que es macho? Y luego tenías que presentarte, porque no te vas a reír.
+- **Entrevistador:** ¿Lo hicieron con un sharpie o algo así?
+- **Yesenia Morales:** Sí, con un sharpie. Wow. Entonces, ¿ya está grabado? Sí, ya está grabado. Ay. No pasa nada, es como un blooper. Sí, sí, sí.
