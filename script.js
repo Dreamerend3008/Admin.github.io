@@ -344,3 +344,82 @@ window.addEventListener('load', () => {
     const loadTime = performance.now();
     console.log(`%cPágina cargada en ${Math.round(loadTime)}ms`, 'color: #27ae60;');
 });
+
+// ==================== Línea de Tiempo Interactiva ====================
+document.addEventListener('DOMContentLoaded', () => {
+    const timelineData = [
+        { year: '1969', title: 'Origen y primeros años', detail: 'Liliana Morales Mora nace el 28 de mayo de 1969 en Garagoa, Boyacá. Crece en condiciones económicas difíciles y trabaja desde niña vendiendo papas en la plaza del pueblo, experiencia que fortalece su carácter emprendedor.' },
+        { year: '1989', title: 'Llegada a Bogotá', detail: 'A los 20 años se traslada a Bogotá para estudiar Administración de Empresas en la Universidad Distrital. Este cambio marca el inicio de su formación profesional.' },
+        { year: '1994–2004', title: 'Experiencia en el sector', detail: 'Tras graduarse, trabaja durante una década en Rentokill, empresa dedicada a la desinfección de áreas. En este periodo identifica la falta de regulación en el control de plagas y los riesgos sanitarios derivados de la obsolescencia tecnológica en Colombia.' },
+        { year: '2004', title: 'Fundación de TKC Fumigaciones', detail: 'Motivada por las necesidades del país y en medio de la transición hacia tecnologías más modernas, Liliana funda Fumigaciones TKC, enfocada en servicios de fumigación y desinfección con una visión orientada a la salud pública.' },
+        { year: '2004–2017', title: 'Consolidación y crecimiento', detail: 'La empresa crece sostenidamente. Se introducen prácticas administrativas modernas: diseño organizacional, creación de departamentos, especialización del trabajo y formalización de procesos. Estos avances le permiten posicionarse con fuerza en el mercado nacional.' },
+        { year: '2017', title: 'Cambio de gerencia', detail: 'Por razones personales, Liliana cede la gerencia a su hermana Yesenia Morales Mora, profesional en seguridad y salud en el trabajo. Su llegada impulsa la diversificación de servicios y una nueva etapa de expansión.' },
+        { year: '2017–Actualidad', title: 'Diversificación y fortalecimiento', detail: 'Bajo la dirección de Yesenia surgen nuevas líneas: TKC Corp (saneamiento y control integrado de plagas); TKC Home (bienestar en el hogar y control de plagas domésticas); Hidriko (monitoreo, lavado y desinfección de sistemas de agua potable y vertimientos); TKC Security (asesorías en seguridad y salud en el trabajo).' },
+        { year: 'Actualidad', title: 'Reconocimiento y liderazgo', detail: 'TKC cuenta con más de 70 empleados administrativos, 200 técnicos y dos sedes operativas. Ha sido reconocida por el PREAD gracias a su desempeño ambiental. Hoy es una de las empresas más destacadas del sector en Colombia y un referente en salud ambiental y control de plagas.' }
+    ];
+
+    const timelineContainer = document.getElementById('timelineContainer');
+    const timelineDetail = document.getElementById('timelineDetail');
+
+    if (timelineContainer) {
+        timelineData.forEach((evt, idx) => {
+            const card = document.createElement('div');
+            card.className = 'timeline-event';
+            card.setAttribute('tabindex','0');
+            card.setAttribute('role','button');
+            card.setAttribute('aria-label', `${evt.year} ${evt.title}`);
+            card.innerHTML = `<time>${evt.year}</time><h4>${evt.title}</h4><p>${evt.detail.slice(0, 80)}...</p>`;
+            card.addEventListener('click', () => selectTimeline(idx));
+            card.addEventListener('keypress', (e) => { if(e.key==='Enter'){ selectTimeline(idx); }});
+            timelineContainer.appendChild(card);
+        });
+    }
+
+    function selectTimeline(index){
+        const evt = timelineData[index];
+        document.querySelectorAll('.timeline-event').forEach(el => el.classList.remove('active'));
+        const active = timelineContainer.children[index];
+        active.classList.add('active');
+        if (timelineDetail){
+            timelineDetail.innerHTML = `<h3>${evt.year} · ${evt.title}</h3><p>${evt.detail}</p>`;
+        }
+    }
+});
+
+// ==================== Flujo Ley de la Situación ====================
+document.addEventListener('DOMContentLoaded', () => {
+    const flowStepsData = [
+        { key:'diagnostico', title:'Diagnóstico del Sitio', text:'La acción surge de la situación: tipo de plaga, condiciones ambientales, historial y contexto operativo. Autoridad = hechos.' },
+        { key:'riesgos', title:'Riesgos y Normativa', text:'Condiciones legales HSEQ y riesgos sanitarios orientan decisiones. No impone jerarquía, guía el marco regulatorio aplicado.' },
+        { key:'metodo', title:'Selección del Método', text:'Técnica química, biológica o física elegida por adecuación situacional; evita tradición o rutina sin análisis.' },
+        { key:'verificacion', title:'Verificación HSEQ & Ejecución', text:'Controles de seguridad y protocolos antes y durante la intervención. Protege vida y entorno.' },
+        { key:'retro', title:'Retroalimentación Cliente', text:'Cliente aporta datos que reorientan decisiones futuras. Ejemplifica respuesta circular y “poder con”.' }
+    ];
+
+    const flowSteps = document.getElementById('flowSteps');
+    const flowDetail = document.getElementById('flowDetail');
+
+    if (flowSteps){
+        flowStepsData.forEach((st, idx) => {
+            const stepEl = document.createElement('div');
+            stepEl.className = 'flow-step';
+            stepEl.textContent = st.title;
+            stepEl.setAttribute('tabindex','0');
+            stepEl.setAttribute('role','button');
+            stepEl.setAttribute('aria-label', st.title);
+            stepEl.addEventListener('click',()=>selectFlow(idx));
+            stepEl.addEventListener('keypress',(e)=>{ if(e.key==='Enter'){ selectFlow(idx); }});
+            flowSteps.appendChild(stepEl);
+        });
+    }
+
+    function selectFlow(index){
+        document.querySelectorAll('.flow-step').forEach(el=>el.classList.remove('active'));
+        const active = flowSteps.children[index];
+        active.classList.add('active');
+        const data = flowStepsData[index];
+        if (flowDetail){
+            flowDetail.innerHTML = `<h3>${data.title}</h3><p>${data.text}</p>`;
+        }
+    }
+});
