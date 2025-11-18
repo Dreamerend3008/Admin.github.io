@@ -345,6 +345,42 @@ window.addEventListener('load', () => {
     console.log(`%cPágina cargada en ${Math.round(loadTime)}ms`, 'color: #27ae60;');
 });
 
+// ==================== Q&A Accordion (Entrevista) ====================
+document.addEventListener('DOMContentLoaded', () => {
+    const qaButtons = document.querySelectorAll('.qa-question');
+    qaButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const expanded = btn.getAttribute('aria-expanded') === 'true';
+            // Close others
+            document.querySelectorAll('.qa-question[aria-expanded="true"]').forEach(openBtn => {
+                if (openBtn !== btn) {
+                    openBtn.setAttribute('aria-expanded', 'false');
+                    const ans = openBtn.parentElement.querySelector('.qa-answer');
+                    if (ans) ans.hidden = true;
+                }
+            });
+
+            btn.setAttribute('aria-expanded', String(!expanded));
+            const answer = btn.parentElement.querySelector('.qa-answer');
+            if (answer) answer.hidden = expanded; // toggle
+        });
+    });
+
+    // Toggle all (if present)
+    const toggleAll = document.querySelector('.qa-toggle-all');
+    if (toggleAll) {
+        let expandedAll = false;
+        toggleAll.addEventListener('click', () => {
+            expandedAll = !expandedAll;
+            document.querySelectorAll('.qa-question').forEach(btn => {
+                btn.setAttribute('aria-expanded', String(expandedAll));
+                const ans = btn.parentElement.querySelector('.qa-answer');
+                if (ans) ans.hidden = !expandedAll;
+            });
+        });
+    }
+});
+
 // ==================== Línea de Tiempo Interactiva ====================
 document.addEventListener('DOMContentLoaded', () => {
     const timelineData = [
