@@ -47,6 +47,31 @@ To preview your site locally:
 - **Clean CSS**: Well-organized styles with comments
 - **Smooth Scrolling**: Navigation with smooth scroll effects
 - **Easy to Customize**: Simple structure for beginners
+- **Study Summary Section**: Concise research synthesis.
+- **Manager Context Section**: Background of founding and current leadership.
+- **Interactive Situation Flow**: Clickable steps illustrating Mary Parker Follett's "ley de la situación".
+- **Interactive Timeline**: Scrollable, accessible historical milestones.
+
+## 🔍 New Interactive Modules
+
+### Timeline (`#timeline`)
+Data rendered desde el arreglo `timelineData` en `script.js`. Para añadir un hito:
+
+```javascript
+// Dentro de timelineData
+{ year: '2026', title: 'Nueva Expansión', detail: 'Tercera sede y adopción de analítica ambiental avanzada.' }
+```
+
+### Flujo Ley de la Situación (`#flujo-situacion`)
+Pasos gestionados en `flowStepsData`. Cada objeto contiene: `key`, `title`, `text`.
+
+### Edición de Contenido
+Puedes integrar modo edición agregando clases `.editable` y atributo `data-field` siguiendo el patrón existente.
+
+Atajos:
+- Ctrl + E: Activar/desactivar edición
+- Ctrl + S: Guardar cambios
+- Escape: Cancelar edición
 
 ## 📚 Resources
 
